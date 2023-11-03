@@ -14,13 +14,19 @@ Projek akhir ini adalah tentang penerapan sistem top up untuk game Mobile Legend
 
 ## Screenshot Kodingan dengan Penjelasan
 ![image](https://github.com/AdliMS/PA-PBO/assets/53502055/fe1e97ce-8516-4cf6-b72b-7250c542527d)
+
 Ini adalah method create_connection() pada kelas DBCon untuk membuat hubungan ke database.
 
+
 ![image](https://github.com/AdliMS/PA-PBO/assets/53502055/6180f05c-9d37-4267-acbe-cdc165d8e00f)
+
 method login_admin() untuk menghandle login bagi akun admin.
 
+
 ![image](https://github.com/AdliMS/PA-PBO/assets/53502055/0be29a18-0c6b-4519-b58f-79f50459935a)
+
 method register() untuk menghandle register bagi akun user.
+
 
 ![image](https://github.com/AdliMS/PA-PBO/assets/53502055/fe872994-f863-4ac9-a75d-1641caaccabf)
 method fill_table() di dalam kelas ItemList yang merupakan subclass dari DBCon (extends DBCon). Method ini berfungsi untuk mengisi (populate) table di dalam jFrame MenuCRUD.
