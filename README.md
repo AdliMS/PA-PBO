@@ -1,5 +1,8 @@
 # Top-up ML
 
+### Muhammad Akmal Falah 2209116091
+### Adli Imam Suryadin 2209116096
+
 ## Deskripsi Projek
 Projek akhir ini adalah tentang penerapan sistem top up untuk game Mobile Legends menggunakan bahasa pemrograman Java dan database MySQL. Tujuan utama dari proyek ini adalah untuk memungkinkan pemain game Mobile Legends untuk melakukan top up atau membeli item-game dengan cara yang aman dan efisien.
 
